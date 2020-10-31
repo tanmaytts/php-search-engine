@@ -6,3 +6,4 @@ Move files in htdocs folder of Xampp<br>
 Start Xampp Apache and MySQL Database
 <br>
 # Set Up
+Import the ```.sql``` file to phpmyadmin MySQL Database<br>
