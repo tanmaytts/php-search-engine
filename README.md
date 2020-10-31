@@ -6,4 +6,9 @@ Move files in htdocs folder of Xampp<br>
 Start Xampp Apache and MySQL Database
 <br>
 # Set Up
-Import the ```.sql``` file to phpmyadmin MySQL Database<br>
+Import the ```search-engine.sql``` file to phpmyadmin MySQL Database<br>
+Find MySQL database here - http://127.0.0.1/phpmyadmin
+*Wait For Two Minutes*
+# Launch
+By Going to <br>
+http://127.0.0.1/php-search-engine
